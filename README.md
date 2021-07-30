@@ -12,11 +12,11 @@ Features :
 
 Advantages :
 
-         -> Turf booking can be done just by sitting at home.
+     -> Turf booking can be done just by sitting at home.
 
-         -> It saves more time.
+     -> It saves more time.
 
-         -> It is very easy to access the system anywhere.
+      -> It is very easy to access the system anywhere.
 
        
 ## Requirements 
@@ -129,9 +129,9 @@ These are the scripting languages and environment used in this module
 
 This application is written in PHP.
 
-. [PHP]     ( https://github.com/php/php-src )
-. [APACHE]  ( https://github.com/apache )
-. [MYSQL]   ( https://github.com/mysql )
+    . [PHP] ( https://github.com/php/php-src )
+    . [APACHE] ( https://github.com/apache )
+    . [MYSQL] ( https://github.com/mysql )
 	 
 
 The application uses multi threading in order to process events asynchronously.
