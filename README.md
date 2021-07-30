@@ -59,15 +59,15 @@ These are the main goals of this module
 
 These are the scripting languages and environment used in this module 
 
-	-> HTML is used to create user interface.
+     -> HTML is used to create user interface.
 	
-	-> CSS is used for design the user interface.
+     -> CSS is used for design the user interface.
 	
-	-> PHP act as a intermediate between database and front end.
+     -> PHP act as a intermediate between database and front end.
 	
-	-> MSSQL is the main database.
+     -> MSSQL is the main database.
 	
-	-> APACHE is a framework which is used to reduce manual work.
+     -> APACHE is a framework which is used to reduce manual work.
 
 ### Turf Management Module
 
@@ -87,15 +87,15 @@ These are the main goals of this module
  
 These are the scripting languages and environment used in this module 
 
-     -> HTML is used to create user interface.
+    -> HTML is used to create user interface.
 	
-     -> CSS is used for design the user interface.
+    -> CSS is used for design the user interface.
 	
-     -> PHP act as a intermediate between database and front end.
+    -> PHP act as a intermediate between database and front end.
 	
-     -> MYSQL is the main database.
+    -> MYSQL is the main database.
 	
-     -> APACHE is a framework which is used to reduce manual work.
+    -> APACHE is a framework which is used to reduce manual work.
 
 ### Reservation Module
 
@@ -115,15 +115,15 @@ These are the main goals of this module
 
 These are the scripting languages and environment used in this module 
 
-	-> HTML is used to create user interface.
+    -> HTML is used to create user interface.
 	
-	-> CSS is used for design the user interface.
+    -> CSS is used for design the user interface.
 	
-	-> PHP act as a intermediate between database and front end.
+    -> PHP act as a intermediate between database and front end.
 	
-	-> MYSQL is the main database.
+    -> MYSQL is the main database.
 	
-	-> APACHE is a framework which is used to reduce manual work.
+    -> APACHE is a framework which is used to reduce manual work.
 
 #### PHP 
 
