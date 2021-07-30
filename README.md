@@ -12,11 +12,11 @@ Features :
 
 Advantages :
 
-                 -> Turf booking can be done just by sitting at home.
+         -> Turf booking can be done just by sitting at home.
 
-                 -> It saves more time.
+         -> It saves more time.
 
-                 -> It is very easy to access the system anywhere.
+         -> It is very easy to access the system anywhere.
 
        
 ## Requirements 
