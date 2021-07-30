@@ -12,11 +12,11 @@ Features :
 
 Advantages :
 
-     -> Turf booking can be done just by sitting at home.
+    -> Turf booking can be done just by sitting at home.
 
-     -> It saves more time.
+    -> It saves more time.
 
-      -> It is very easy to access the system anywhere.
+    -> It is very easy to access the system anywhere.
 
        
 ## Requirements 
@@ -95,7 +95,7 @@ These are the scripting languages and environment used in this module
 	
      -> MYSQL is the main database.
 	
-      -> APACHE is a framework which is used to reduce manual work.
+     -> APACHE is a framework which is used to reduce manual work.
 
 ### Reservation Module
 
@@ -130,7 +130,9 @@ These are the scripting languages and environment used in this module
 This application is written in PHP.
 
   -> [PHP](https://github.com/php/php-src)
+  
   -> [APACHE](https://github.com/apache)
+  
   -> [MYSQL](https://github.com/mysql)
 	 
 
@@ -148,14 +150,10 @@ First ensure your system correctly setting up with required softwares
 
 These are the some third party packages used in this project
 
-	PHP 8   : https://www.php.net/downloads.php   
+   -> [PHP 8](https://www.php.net/downloads.php)
 	
-	Apache  : https://httpd.apache.org/download.cgi
+   -> [Apache](https://httpd.apache.org/download.cgi)
 
 IDE used in our project 
 
-	Visual studio Code : https://code.visualstudio.com/download
-
-
-
-
+   -> [Visual studio Code](https://code.visualstudio.com/download)
