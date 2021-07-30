@@ -2,7 +2,7 @@
 
 Features :
 	
-	-> This playground booking web application is proposed for booking the turf in an easy and efficient way through online.
+	-> This playground booking web application is proposed for booking the turf in an easy and efficient.
 
 	-> It also aims at going towards cashless transactions.
 	
@@ -47,7 +47,7 @@ Software Requirements :
 
 These are the main goals of this module 
 
-	-> Admin has been granted full access with complete permissions towards the system. 
+    -> Admin has been granted full access with complete permissions towards the system. 
 
     -> Admin can add turf location and manager of the respective turf location.
  
@@ -73,35 +73,35 @@ These are the scripting languages and environment used in this module
 
 These are the main goals of this module 
 
-	-> Manager can login with the credentials provided by user. 
+    -> Manager can login with the credentials provided by user. 
 
     -> Manager can check rates for the respective location turf.
  
     -> Manager can view request for turf bookings.
     
-   -> Manager can confirm the booking of the turf.
+    -> Manager can confirm the booking of the turf.
 
-   -> Manager can generate bills as per the rates.
+    -> Manager can generate bills as per the rates.
 
-   -> Manager can check previous booking history.
+    -> Manager can check previous booking history.
  
 These are the scripting languages and environment used in this module 
 
-	-> HTML is used to create user interface.
+     -> HTML is used to create user interface.
 	
-	-> CSS is used for design the user interface.
+     -> CSS is used for design the user interface.
 	
-	-> PHP act as a intermediate between database and front end.
+     -> PHP act as a intermediate between database and front end.
 	
-	-> MYSQL is the main database.
+     -> MYSQL is the main database.
 	
-	-> APACHE is a framework which is used to reduce manual work.
+      -> APACHE is a framework which is used to reduce manual work.
 
 ### Reservation Module
 
 These are the main goals of this module
 
-	-> When a visitor signup for the website, they becomes the user.
+    -> When a visitor signup for the website, they becomes the user.
 
     -> User can check for turf of nearby location and prices.
  
@@ -111,7 +111,7 @@ These are the main goals of this module
 
     -> User can see his previous booking history.
     
-	-> Change of password and logout are also displayed in this module.
+    -> Change of password and logout are also displayed in this module.
 
 These are the scripting languages and environment used in this module 
 
@@ -129,9 +129,9 @@ These are the scripting languages and environment used in this module
 
 This application is written in PHP.
 
-	 . [PHP]     ( https://github.com/php/php-src )
-	 . [APACHE]  ( https://github.com/apache )
-	 . [MYSQL]   ( https://github.com/mysql )
+. [PHP]     ( https://github.com/php/php-src )
+. [APACHE]  ( https://github.com/apache )
+. [MYSQL]   ( https://github.com/mysql )
 	 
 
 The application uses multi threading in order to process events asynchronously.
